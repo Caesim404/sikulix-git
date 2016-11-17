@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SikuliX
+GenericName=SikuliX
+Comment=Automates GUI tasks using image recognition
+Exec=sikulix
+Icon=sikulix
+Terminal=false
+Type=Application
+Categories=Development;

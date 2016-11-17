@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec java -Xmx512M -Dfile.encoding=UTF-8 -Dsikuli.FromCommandLine -jar /usr/share/sikulix/sikulix.jar "$@"
